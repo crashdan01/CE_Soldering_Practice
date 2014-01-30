@@ -26,9 +26,9 @@ End Board 7 pin header:
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
-[Bill of Materials - Test Table]
+
 | Value |  Qty | Part Number | Manufacturer  |  Package | Reference | Description |  Digi-Key P/N  |  Min Qty | Cost  |
-| :-----------:  | :-----------:     | :------:  | :------:  | :------:  | :------:  | :------:  |:------:  |:------:  |:------:  |
+| :-----------: | :-----------:     | :------:  | :------:  | :------:  | :------:  | :------:  |:------:  |:------:  |:------:  |
 .1uF  |  1      |     SM0603 | | | C9    |      1 |  0.1  |   
 
 [Bill of Materials]
