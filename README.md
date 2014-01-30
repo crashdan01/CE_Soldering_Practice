@@ -20,10 +20,14 @@ End Board 7 pin header:
 
 ## Bill of Materials
 
+[Bill of Materials - Test Table]
+| Value |  Qty | Part Number | Manufacturer  |  Package | Reference | Description |  Digi-Key P/N  |  Min Qty | Cost  |
+| :-----------:  | :-----------:     | :------:  | :------:  | :------:  | :------:  | :------:  |:------:  |:------:  |:------:  |
+.1uF  |  1      |     SM0603 | | | C9    |      1 |  0.1  |   
 
 [Bill of Materials]
 | Value |  Qty | Part Number | Manufacturer  |  Package | Reference | Description |  Digi-Key P/N  |  Min Qty | Cost  |
--------- | :-----------:     | :------:  | :------:  | :------:  | :------:  | :------:  |:------:  |:------:  |:------:  |
+| :-----------:  | :-----------:     | :------:  | :------:  | :------:  | :------:  | :------:  |:------:  |:------:  |:------:  |
 .1uF  |  1      |     SM0603 | | | C9    |      1 |  0.1  |   
 .1uF   | 3  | CC0603KRX7R9BB104  | Yageo  | SM0805 | C1 C2 C5  |  CAP CER 0.1UF 50V 10% X7R 0603 | 311-1344-1-ND               
 1uF | 1 |  C0805C105K4RACTU   | Kemet  | SM0805 |  C3 |  CAP CER 1UF 16V 10% X7R 0805  |  399-1284-1-ND |  1 |  0.12  |        
