@@ -20,6 +20,12 @@ End Board 7 pin header:
 
 ## Bill of Materials
 
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
 [Bill of Materials - Test Table]
 | Value |  Qty | Part Number | Manufacturer  |  Package | Reference | Description |  Digi-Key P/N  |  Min Qty | Cost  |
 | :-----------:  | :-----------:     | :------:  | :------:  | :------:  | :------:  | :------:  |:------:  |:------:  |:------:  |
